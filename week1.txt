@@ -1,0 +1,30 @@
+#1: SUSPICIOUS ACTIVITY
+-import the sample_report.txt file
+-Will use an "if" statement if log in preceeds more than 5 in a single day, it will print the amount of times the user has done so per day
+-If the user logs in between 12 am-5am once, it will it will print the amount of times the user has done so per day by using "if" and "print" statement
+-To print the time, activity, and server for a day in ascending order by time in a column, using a dictionary will help categorize them together
+-Also using loop to keep allowing users to login
+
+#2:IRRESPONSIBLE BEHAVIOR
+# Create variables time, activity, and server that keep track of user activity and be presented to the user.
+# Will use a loop to keep expecting the user to log out every time they log in.
+# The for loop will count the number of logins. An if statement will be created to create a condition that when the number of logins is more than logouts, then counts as an irresponsible activity.
+# An if statement is needed to create a condition that if the user does not comply with the above for loop, then a variable will be used to label it as an irresponsible behavior and begin to count them as one per day. 
+# Any number of irresponsible behaviors on a day will count as one for that day. We can achieve this by using a for loop and if statements.
+# System will print the total number of irresponsible behaviors.
+
+
+#3: SYSTEM GLITCH 
+# Create variables time, activity, and server that keep track of user activity and be presented to the user.
+# Will use a variable to assign and count the number of log outs
+# Will use a if statement to print “System glitch” if the number of log outs is more than the number of logins for any user. 
+# Use a for loop and the variable to count the number of system glitches and assign all glitches for one day account for a total count of one. 
+# System will print the total number of glitches.
+
+#4: DOMAIN
+-use split function to split the Email-ID, Name, and Domain
+-I will create a dictionary for Email-ID, unique domain and Domain
+-Use variables like email, unique domain and domain to store a list of email addresses and domain names
+-I will use for loop on the list variable to find unique domains
+-I will use "if" statement to find the if a domain name appears once to be appened to the unique list and printed
+
