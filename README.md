@@ -1,6 +1,7 @@
 # Project-3: WEEK 1
 
 BY: **NAJWA ABDELLA AND SOPHIA BARBA**
+**UPDATED README**
 
 #1 **Suspicious Activity**
 1. open and read sample_report.txt file
@@ -8,7 +9,7 @@ BY: **NAJWA ABDELLA AND SOPHIA BARBA**
 3. Use dictionary to print time, activity, and server within a day in ascending order
 4. Set variables:
   login_count = 0
-  logout_count = 0
+  suspicious activity = {}
   total_count = 0
   suspicious_activity = 0
 in order to count number of logins, logouts,total count and suspicious activty count.
@@ -30,9 +31,9 @@ NO: System does not detect any suspicious activity
 2. Set variables:
   login_count = 0
   logout_count = 0
-  total_count = 0
-  irresponsible_behavior = 0
-3.while loop to track the number of logins and logouts. 
+  irresponsible dictionary = {}
+  
+3.for loop to track the number of logins and logouts. 
   login_count += 1
   logout_count +=1
 4. if logins > more than logouts
