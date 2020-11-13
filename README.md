@@ -65,4 +65,6 @@ Once the userlog.log file is opened and read, we set the 3 separate variables to
 4. One of the things that my groupmate and I dicovered is that we both realized that we need to use indices to search for the given element. We took this into     account.
 5. Conditional if statement when the number of logins is less than logouts. 
 6. return word.
+
+
 #4 **Domain Count
