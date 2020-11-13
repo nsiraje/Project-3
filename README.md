@@ -74,3 +74,8 @@ Once the userlog.log file is opened and read, we set the 3 separate variables to
 4. split() method to separate domain from user by '@'
 5. if statement conditional - we also realized we need to use indices here
 6. return getting_the_domains
+
+**Challenges we encountered**
+1. The first time we were starting, we did not have a file report system. Now we created this function and it makes it easier to call the other functions and create text files.
+2. It was a great difficulty to sort the time and date in ascendng order. Using indices solves this problem. 
+3. We needed to create a separate parsing log function because it was difficult to parse within the other functions by themselves.
