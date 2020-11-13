@@ -1,6 +1,7 @@
 # Project-3: WEEK 1
 
 BY: **NAJWA ABDELLA AND SOPHIA BARBA**
+
 **UPDATED README**
 
 #1 **Suspicious Activity**
