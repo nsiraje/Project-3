@@ -67,4 +67,10 @@ Once the userlog.log file is opened and read, we set the 3 separate variables to
 6. return word.
 
 
-#4 **Domain Count
+#4 **Domain Count**
+1. Open the userlog.log file and read it.
+2. getting_the_domains = { }
+3. Used a for loop to get through all the emails.
+4. split() method to separate domain from user by '@'
+5. if statement conditional - we also realized we need to use indices here
+6. return getting_the_domains
