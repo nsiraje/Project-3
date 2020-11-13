@@ -53,3 +53,16 @@ Once the userlog.log file is opened and read, my teammate and I plan to create a
 **System Glitch**
 
 Once the userlog.log file is opened and read, we set the 3 separate variables to count the number of logins and logouts as well as the total number of counts. We plan to use a while loop to keep track of the number of logins/logouts and increment by one. More importantly, we will use an if statement to create a condition when the number of logouts is more than logins, there will be two possible outcomes. If the answer to the condition is false, then the system operates as normal. Meanwhile, when the condition is true, then the system identifies a glitch. We will count the number of glitches in a day as 1 count.
+
+**UPDATED README**
+
+#3 **System Glitch**
+1. Open and read the userlog.log file. 
+2. number of logins = 0
+   number of logouts = 0
+   word = { }
+3. for loop to keep track of the counts and increment by one
+4. One of the things that my groupmate and I dicovered is that we both realized that we need to use indices to search for the given element. We took this into     account.
+5. Conditional if statement when the number of logins is less than logouts. 
+6. return word.
+#4 **Domain Count
