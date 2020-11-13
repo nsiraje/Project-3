@@ -1,0 +1,2853 @@
+==============================
+=== IRRESPONSIBLE BEHAVIOR  (564 cases) ===
+==============================
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local
+maximiliano.mancell@spacemart.com			11
+	DATE: [2020-05-01]---
+			03:09:43		login		webserver.local
+			04:51:28		login		myworkstation.local
+			08:51:14		logout		myworkstation.local
+			13:47:47		logout		webserver.local
+			22:01:10		login		webserver.local
+	DATE: [2020-05-03]---
+			06:34:04		login		mailserver.local
+			12:46:26		login		mailserver.local
+			19:11:46		login		mailserver.local
+	DATE: [2020-05-04]---
+			19:09:06		login		mailserver.local
+	DATE: [2020-05-07]---
+			09:46:45		login		mailserver.local
+			18:37:57		login		mailserver.local
+	DATE: [2020-05-12]---
+			02:39:16		login		mailserver.local
+			03:40:24		logout		webserver.local
+			04:50:52		login		myworkstation.local
+			07:58:26		login		myworkstation.local
+			08:27:59		logout		webserver.local
+			16:37:12		login		webserver.local
+			21:28:41		logout		myworkstation.local
+	DATE: [2020-05-14]---
+			23:22:56		login		webserver.local
+	DATE: [2020-05-16]---
+			01:20:48		logout		mailserver.local
+			01:40:09		login		myworkstation.local
+			01:51:56		logout		myworkstation.local
+			06:11:01		login		mailserver.local
+			09:04:49		login		webserver.local
+			16:23:23		logout		myworkstation.local
+			17:16:42		login		mailserver.local
+			17:46:28		login		mailserver.local
+	DATE: [2020-05-17]---
+			01:06:59		login		myworkstation.local
+			07:55:06		logout		webserver.local
+			11:29:14		login		webserver.local
+			15:15:52		logout		mailserver.local
+			18:10:07		login		webserver.local
+	DATE: [2020-05-19]---
+			04:45:42		login		myworkstation.local
+			07:09:14		login		myworkstation.local
+			18:45:22		logout		myworkstation.local
+			19:32:28		login		myworkstation.local
+			23:31:26		login		mailserver.local
+	DATE: [2020-05-23]---
+			10:59:51		logout		myworkstation.local
+			11:16:56		login		mailserver.local
+			11:21:42		logout		myworkstation.local
+			17:49:26		login		myworkstation.local
+			19:15:11		login		mailserver.local
+			22:51:56		login		webserver.local
+	DATE: [2020-05-30]---
+			14:20:48		login		webserver.local
+			14:42:18		login		webserver.local

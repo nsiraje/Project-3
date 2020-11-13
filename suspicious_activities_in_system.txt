@@ -1,0 +1,3203 @@
+==============================
+=== SUSPICIOUS ACTIVITY  (645 cases) ===
+==============================
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local
+ronica.thistle@freesurf.fr			12
+	DATE: [2020-05-03]---
+			01:56:50		login		mailserver.local
+			11:35:05		login		myworkstation.local
+			16:02:14		login		webserver.local
+			19:45:57		login		webserver.local
+			19:51:06		login		mailserver.local
+	DATE: [2020-05-04]---
+			07:42:50		login		mailserver.local
+			08:24:24		logout		myworkstation.local
+			10:36:13		logout		myworkstation.local
+			11:48:51		login		webserver.local
+			15:19:30		logout		webserver.local
+			15:34:46		logout		myworkstation.local
+	DATE: [2020-05-06]---
+			02:24:21		login		mailserver.local
+			05:35:54		login		mailserver.local
+	DATE: [2020-05-09]---
+			01:57:24		login		myworkstation.local
+			06:12:55		login		mailserver.local
+			07:04:54		logout		mailserver.local
+			21:09:44		logout		webserver.local
+			21:34:56		logout		webserver.local
+			23:32:28		logout		webserver.local
+	DATE: [2020-05-10]---
+			06:37:48		login		webserver.local
+			10:33:17		logout		myworkstation.local
+			13:11:56		logout		mailserver.local
+	DATE: [2020-05-12]---
+			01:19:26		logout		webserver.local
+			11:32:57		login		webserver.local
+			12:01:50		logout		myworkstation.local
+			12:51:16		logout		myworkstation.local
+	DATE: [2020-05-13]---
+			01:54:50		login		mailserver.local
+			02:18:19		logout		myworkstation.local
+			05:36:03		login		webserver.local
+			21:47:12		logout		mailserver.local
+	DATE: [2020-05-19]---
+			00:57:32		logout		webserver.local
+			05:12:00		login		mailserver.local
+			08:19:10		logout		myworkstation.local
+			13:16:52		login		myworkstation.local
+			23:31:00		logout		mailserver.local
+			23:48:24		login		myworkstation.local
+	DATE: [2020-05-20]---
+			04:15:46		login		webserver.local
+			12:05:13		login		webserver.local
+			13:35:47		logout		myworkstation.local
+			14:36:11		logout		mailserver.local
+			14:38:31		login		myworkstation.local
+			20:57:10		logout		myworkstation.local
+			21:33:40		login		myworkstation.local
+	DATE: [2020-05-22]---
+			00:47:50		login		myworkstation.local
+			07:41:52		logout		webserver.local
+			09:02:20		login		webserver.local
+	DATE: [2020-05-26]---
+			07:05:14		login		webserver.local
+			13:30:37		logout		mailserver.local
+			21:07:38		login		mailserver.local
+	DATE: [2020-05-30]---
+			01:27:27		login		myworkstation.local
+			09:39:12		login		webserver.local

@@ -1,0 +1,3203 @@
+==============================
+=== SYSTEM GLITCH  (596 cases) ===
+==============================
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
+melaina.valencia@gmx.net			13
+	DATE: [2020-05-02]---
+			03:51:53		login		myworkstation.local
+			11:35:36		logout		mailserver.local
+			19:54:54		logout		webserver.local
+			21:11:51		logout		myworkstation.local
+			21:15:51		logout		myworkstation.local
+			23:09:31		logout		myworkstation.local
+	DATE: [2020-05-03]---
+			02:03:22		logout		webserver.local
+			04:38:50		logout		mailserver.local
+			17:39:44		logout		myworkstation.local
+			20:21:55		logout		mailserver.local
+	DATE: [2020-05-04]---
+			18:17:31		logout		mailserver.local
+	DATE: [2020-05-05]---
+			10:17:53		logout		mailserver.local
+			13:43:11		logout		webserver.local
+			16:35:03		logout		webserver.local
+	DATE: [2020-05-16]---
+			05:08:29		login		myworkstation.local
+			10:36:02		logout		myworkstation.local
+			11:27:47		logout		mailserver.local
+			12:12:56		logout		myworkstation.local
+			22:48:23		login		myworkstation.local
+	DATE: [2020-05-19]---
+			04:19:18		logout		webserver.local
+			18:03:10		logout		mailserver.local
+			22:17:20		logout		webserver.local
+	DATE: [2020-05-21]---
+			04:15:52		logout		mailserver.local
+			06:31:16		login		webserver.local
+			10:16:48		logout		mailserver.local
+			12:35:55		login		mailserver.local
+			14:10:05		login		webserver.local
+			17:22:26		logout		myworkstation.local
+			19:25:35		logout		mailserver.local
+	DATE: [2020-05-23]---
+			03:16:20		logout		myworkstation.local
+			09:19:34		logout		mailserver.local
+			10:41:13		logout		webserver.local
+	DATE: [2020-05-24]---
+			05:28:20		logout		webserver.local
+			16:32:28		logout		mailserver.local
+			18:33:29		login		mailserver.local
+			23:15:17		logout		mailserver.local
+	DATE: [2020-05-26]---
+			02:51:39		logout		webserver.local
+			05:04:00		login		myworkstation.local
+			09:30:34		logout		myworkstation.local
+			10:41:22		logout		webserver.local
+	DATE: [2020-05-28]---
+			00:11:50		logout		webserver.local
+			00:24:03		logout		mailserver.local
+			14:37:45		logout		webserver.local
+			21:12:04		logout		mailserver.local
+	DATE: [2020-05-29]---
+			02:27:33		login		webserver.local
+			05:56:32		logout		myworkstation.local
+			07:07:36		logout		myworkstation.local
+			13:03:48		login		myworkstation.local
+			14:46:36		logout		webserver.local
+	DATE: [2020-05-30]---
+			01:17:01		logout		webserver.local
